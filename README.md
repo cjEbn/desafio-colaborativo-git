@@ -12,7 +12,11 @@ A serem adicionadas...
 
 ## 💻 Linguagens de Programação Estudadas
 
-A serem adicionadas...
+- JavaScript
+- Python
+- Java
+- HTML e CSS
+- SQL
 
 ## 📝 Documentação
 
