@@ -8,7 +8,10 @@ A serem adicionados...
 
 ## 📱 Redes Sociais
 
-A serem adicionadas...
+| Integrante | GitHub | LinkedIn | Twitter |
+|---|---|---|---|
+| Integrante 1 | [cjEbn](https://github.com/cjEbn) | Não informado | Não informado |
+| Integrante 2 | Não informado | Não informado | Não informado |
 
 ## 💻 Linguagens de Programação Estudadas
 
