@@ -12,7 +12,7 @@ Atividade acadêmica de Engenharia de Software sobre versionamento de código e 
 | Integrante | GitHub | LinkedIn | Twitter |
 |-----------|--------|----------|---------|
 | cjEbn | [github.com/cjEbn](https://github.com/cjEbn) | - | - |
-| Colaborador | - | - | - |
+| Colaborador | https://github.com/Coelho-fcd-Arthur | - | - |
 
 ## 💻 Linguagens de Programação Estudadas
 
