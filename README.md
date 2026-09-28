@@ -25,6 +25,16 @@ Atividade acadêmica de Engenharia de Software sobre versionamento de código e 
 
 ## 📝 Documentação
 
+<<<<<<< HEAD
+Projeto em desenvolvimento com foco em práticas colaborativas de versionamento.
+
+### Objetivos da atividade
+
+- Praticar o uso de branches.
+- Registrar alterações com commits claros.
+- Utilizar Pull Requests e revisão de código.
+- Aprender a resolver conflitos de merge.
+=======
 Projeto em desenvolvimento com foco em práticas colaborativas de versionamento. Este repositório demonstra:
 
 - Trabalho em branches
@@ -32,3 +42,4 @@ Projeto em desenvolvimento com foco em práticas colaborativas de versionamento.
 - Pull Requests com revisão de código
 - Resolução de conflitos
 - Histórico de colaboração
+>>>>>>> 678dfc68864cf9eb597f90e70c3af1b5a0171de0
