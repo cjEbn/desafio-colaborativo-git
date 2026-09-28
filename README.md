@@ -4,16 +4,31 @@ Atividade acadêmica de Engenharia de Software sobre versionamento de código e 
 
 ## 👥 Integrantes
 
-A serem adicionados...
+- **Integrante 1**: cjEbn
+- **Integrante 2**: Colaborador
 
 ## 📱 Redes Sociais
 
-A serem adicionadas...
+| Integrante | GitHub | LinkedIn | Twitter |
+|-----------|--------|----------|---------|
+| cjEbn | [github.com/cjEbn](https://github.com/cjEbn) | - | - |
+| Colaborador | - | - | - |
 
 ## 💻 Linguagens de Programação Estudadas
 
-A serem adicionadas...
+- JavaScript
+- Python
+- Java
+- HTML/CSS
+- SQL
+- Git & GitHub
 
 ## 📝 Documentação
 
-Projeto em desenvolvimento com foco em práticas colaborativas de versionamento.
+Projeto em desenvolvimento com foco em práticas colaborativas de versionamento. Este repositório demonstra:
+
+- Trabalho em branches
+- Commit estruturado
+- Pull Requests com revisão de código
+- Resolução de conflitos
+- Histórico de colaboração
