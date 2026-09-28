@@ -4,7 +4,8 @@ Atividade acadêmica de Engenharia de Software sobre versionamento de código e 
 
 ## 👥 Integrantes
 
-A serem adicionados...
+- **Integrante 1**: cjEbn
+- **Integrante 2**: Colaborador da Equipe
 
 ## 📱 Redes Sociais
 
