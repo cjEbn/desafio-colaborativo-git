@@ -4,18 +4,45 @@ Atividade acadêmica de Engenharia de Software sobre versionamento de código e 
 
 ## 👥 Integrantes
 
+
 - **Integrante 1**: cjEbn
 - **Integrante 2**: Coelho-fcd-Arthur
 - Focados em aprender as melhores práticas de colaboração e controle de versão 🚀
+- **Integrante 1**: Éber do Nascimento Bastos 
+- **Integrante 2**: Arthur Coelho Ferreira da Costa Diogo 
+
 
 ## 📱 Redes Sociais
 
-A serem adicionadas...
+| Integrante | GitHub | LinkedIn | Twitter |
+|-----------|--------|----------|---------|
+| cjEbn | [github.com/cjEbn](https://github.com/cjEbn) | - | - |
+| Colaborador | https://github.com/Coelho-fcd-Arthur | - | - |
 
 ## 💻 Linguagens de Programação Estudadas
 
-A serem adicionadas...
+- JavaScript
+- Python
+- Java
+- HTML/CSS
+- SQL
+- Git & GitHub
 
 ## 📝 Documentação
 
 Projeto em desenvolvimento com foco em práticas colaborativas de versionamento.
+
+### Objetivos da atividade
+
+- Praticar o uso de branches.
+- Registrar alterações com commits claros.
+- Utilizar Pull Requests e revisão de código.
+- Aprender a resolver conflitos de merge.
+
+Projeto em desenvolvimento com foco em práticas colaborativas de versionamento. Este repositório demonstra:
+
+- Trabalho em branches
+- Commit estruturado
+- Pull Requests com revisão de código
+- Resolução de conflitos
+- Histórico de colaboração
