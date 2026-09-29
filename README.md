@@ -5,7 +5,7 @@ Atividade acadêmica de Engenharia de Software sobre versionamento de código e 
 ## 👥 Integrantes
 
 - **Integrante 1**: cjEbn
-- **Integrante 2**: Colaborador da Equipe
+- **Integrante 2**: Coelho-fcd-Arthur
 
 ## 📱 Redes Sociais
 
