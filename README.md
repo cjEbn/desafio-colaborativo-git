@@ -6,6 +6,7 @@ Atividade acadêmica de Engenharia de Software sobre versionamento de código e 
 
 - **Integrante 1**: cjEbn
 - **Integrante 2**: Coelho-fcd-Arthur
+- Focados em aprender as melhores práticas de colaboração e controle de versão 🚀
 
 ## 📱 Redes Sociais
 
