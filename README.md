@@ -4,8 +4,13 @@ Atividade acadêmica de Engenharia de Software sobre versionamento de código e 
 
 ## 👥 Integrantes
 
+
+- **Integrante 1**: cjEbn
+- **Integrante 2**: Coelho-fcd-Arthur
+- Focados em aprender as melhores práticas de colaboração e controle de versão 🚀
 - **Integrante 1**: Éber do Nascimento Bastos 
 - **Integrante 2**: Arthur Coelho Ferreira da Costa Diogo 
+
 
 ## 📱 Redes Sociais
 
