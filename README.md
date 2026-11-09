@@ -1,48 +1,42 @@
 # Desafio Colaborativo Git
 
-Atividade acadêmica de Engenharia de Software sobre versionamento de código e trabalho colaborativo utilizando Git e GitHub.
+Atividade acadêmica de Engenharia de Software para praticar controle de versão e colaboração com Git e GitHub. O repositório reúne o trabalho de Éber do Nascimento Bastos e Arthur Coelho Ferreira da Costa Diogo.
 
-## 👥 Integrantes
+## Objetivos
 
+- Exercitar conceitos de versionamento e colaboração em um repositório compartilhado.
+- Registrar a atividade e seus participantes de forma clara.
+- Consolidar o uso de Git e GitHub no contexto acadêmico.
 
-- **Integrante 1**: cjEbn
-- **Integrante 2**: Coelho-fcd-Arthur
-- Focados em aprender as melhores práticas de colaboração e controle de versão 🚀
-- **Integrante 1**: Éber do Nascimento Bastos 
-- **Integrante 2**: Arthur Coelho Ferreira da Costa Diogo 
+> Este é um exercício educacional, não um produto comercial. Consulte o histórico do repositório para verificar as contribuições e práticas efetivamente utilizadas.
 
+## Tecnologias e ferramentas
 
-## 📱 Redes Sociais
+- Git
+- GitHub
+- Markdown
 
-| Integrante | GitHub | LinkedIn | Twitter |
-|-----------|--------|----------|---------|
-| cjEbn | [github.com/cjEbn](https://github.com/cjEbn) | - | - |
-| Colaborador | https://github.com/Coelho-fcd-Arthur | - | - |
+## Como consultar
 
-## 💻 Linguagens de Programação Estudadas
+1. Acesse este repositório no GitHub.
+2. Leia as informações da atividade nesta página.
+3. Consulte o histórico de commits para acompanhar as alterações registradas.
 
-- JavaScript
-- Python
-- Java
-- HTML/CSS
-- SQL
-- Git & GitHub
+Não há aplicação executável ou dependências de software documentadas neste repositório.
 
-## 📝 Documentação
+## Integrantes
 
-Projeto em desenvolvimento com foco em práticas colaborativas de versionamento.
+- **Éber do Nascimento Bastos:** [@cjEbn](https://github.com/cjEbn)
+- **Arthur Coelho Ferreira da Costa Diogo:** [@Coelho-fcd-Arthur](https://github.com/Coelho-fcd-Arthur)
 
-### Objetivos da atividade
+## Demonstração
 
-- Praticar o uso de branches.
-- Registrar alterações com commits claros.
-- Utilizar Pull Requests e revisão de código.
-- Aprender a resolver conflitos de merge.
+O projeto documenta uma atividade de colaboração, sem interface de aplicação. Para demonstrar o processo, podem ser adicionadas posteriormente capturas reais do histórico ou dos fluxos utilizados, com autorização dos participantes.
 
-Projeto em desenvolvimento com foco em práticas colaborativas de versionamento. Este repositório demonstra:
+## Licença
 
-- Trabalho em branches
-- Commit estruturado
-- Pull Requests com revisão de código
-- Resolução de conflitos
-- Histórico de colaboração
+Nenhum arquivo de licença foi identificado. Como este trabalho é colaborativo, os direitos e a licença devem ser definidos pelos autores em conjunto antes de adicionar uma licença.
+
+## Tópicos sugeridos
+
+`git`, `github`, `versionamento`, `colaboracao`, `engenharia-de-software`, `projeto-academico`
